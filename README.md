@@ -1,0 +1,1 @@
+This is a `Hardhat` boilerplate to start new projects.
